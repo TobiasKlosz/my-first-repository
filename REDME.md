@@ -10,7 +10,8 @@ Hallo
 ### Ich teste den ganzen Tag
 o Mann jahr schon fast dabei 
 
-git init
-git add
+git init (repository aus dir machen)
+git add (alles files die man kommitten will auch git add .)
 git commit -m ""
-git 
+git status
+git log
