@@ -12,5 +12,5 @@ o Mann jahr schon fast dabei
 
 git init
 git add
-git commit
+git commit -m ""
 git 
