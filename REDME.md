@@ -9,7 +9,7 @@ Hallo
 - ahhhhhhhhhhhh
 ### Ich teste den ganzen Tag
 o Mann jahr schon fast vorbei 
-
+sooooo grrrrr
 git init (repository aus dir machen)
 git add (alles files die man kommitten will auch git add .)
 git commit -m ""
