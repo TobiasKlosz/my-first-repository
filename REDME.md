@@ -8,10 +8,10 @@ Hallo
     - aha kenn mi aus
 - ahhhhhhhhhhhh
 ### Ich teste den ganzen Tag
-o Man jahr schon fast vorbei 
-sooooo grrrrr
-git init (repository aus dir machen)
-git add (alles files die man kommitten will auch git add .)
-git commit -m ""
-git status
-git log
+- o Man jahr schon fast vorbei 
+- sooooo grrrrr
+- git init (repository aus dir machen)
+- git add (alles files die man kommitten will auch git add .)
+- git commit -m ""
+- git status
+- git log
