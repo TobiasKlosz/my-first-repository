@@ -8,7 +8,7 @@ Hallo
     - aha kenn mi aus
 - ahhhhhhhhhhhh
 ### Ich teste den ganzen Tag
-o Mann jahr schon fast vorbei 
+o Man jahr schon fast vorbei 
 sooooo grrrrr
 git init (repository aus dir machen)
 git add (alles files die man kommitten will auch git add .)
